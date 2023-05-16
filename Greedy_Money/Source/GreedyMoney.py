@@ -1,3 +1,5 @@
+# BloodAlibi // 2023
+
 values = [1,2,5,10,20,50,100] # Change the chosen values here
 
 def greedy_aglorithm(number, system):
